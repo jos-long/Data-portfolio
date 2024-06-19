@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/jos-long/Climate-Exploration-Project/blob/main/michael-d-2cDIzRnVq0Q-unsplash_2018.jpg" alt="High Rise Buildings by Michael D on Unsplash">
+      <img src="https://github.com/jos-long/Climate-Exploration-Project/blob/main/michael-d-2cDIzRnVq0Q-unsplash_2018.jpg" width="250" alt="High Rise Buildings by Michael D on Unsplash">
     </td>
     <td>
       <p><bold><a href="https://github.com/jos-long/Climate-Exploration-Project">Climate Exploration Project</a></bold></p>
