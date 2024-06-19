@@ -4,11 +4,11 @@
 <h2>Projects</h2>
 <table>
   <tr>
-    <td>
+    <td valign="top">
       <img src="https://github.com/jos-long/Climate-Exploration-Project/blob/main/michael-d-2cDIzRnVq0Q-unsplash_2018.jpg" width="350" alt="High Rise Buildings by Michael D on Unsplash">
     </td>
-    <td>
-      <p><bold><a href="https://github.com/jos-long/Climate-Exploration-Project">Climate Exploration Project</a></bold></p>
+    <td valign="top">
+      <p><a href="https://github.com/jos-long/Climate-Exploration-Project">Climate Exploration Project</a></p>
       <p>[Two or three sentences max!] The objective of this is project is to... I compared various models... which resulted in a [quantifiable result].</p>
     </td>
   </tr>
