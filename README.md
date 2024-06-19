@@ -1,13 +1,21 @@
-# Data Science Portfolio - Joseph Long
-This is my portfolio...
+<h1>Data Science Portfolio - Joseph Long</h1>
+<p></p>This is my portfolio...</p>
 
-## Projects
-These are my projects, presented in a CRISP-DM format.
-
-### Climate Exploration Project
-
-[Two or three sentences max!] The objective of this is project is to... I compared various models... which resulted in a [quantifiable result].
+<h2>Projects</h2>
+<table>
+  <tr>
+    <td>
+      <img src="https://via.placeholder.com/100" alt="Example Image">
+    </td>
+    <td>
+      <p><bold><a href="https://github.com/jos-long/Climate-Exploration-Project">Climate Exploration Project</a></bold></p>
+      <p>[Two or three sentences max!] The objective of this is project is to... I compared various models... which resulted in a [quantifiable result].</p>
+    </td>
+  </tr>
+</table>  
 
 <!--
 Photo by <a href="https://unsplash.com/@alienaperture?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Michael D</a> on <a href="https://unsplash.com/photos/high-rise-buildings-2cDIzRnVq0Q?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 -->
+
+</table>
