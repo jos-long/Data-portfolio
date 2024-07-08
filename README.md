@@ -29,6 +29,21 @@
   </tr>
 </table>  
 
+<h2>Data Certificates</h2>
+<p>
+  <ul>
+    <li>
+      <a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certificate%2C%20Coursera%2C%20IBM%20Data%20analytist.pdf">IBM Data Analysis Professional Certificate</a>
+    </li>
+    <ul>
+      <li><a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certificate%2C%20Coursera%2C%20Data%20analytics%2C%2001%2C%20Intro%20to%20data%20analytics.pdf">Introduction to Data Analytics</a></li>
+      <li><a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certificate%2C%20Coursera%2C%20Data%20analytics%2C%2002%2C%20Excel%20basics%20for%20data%20analysis.pdf">Excel Basics for Data Analysis</a></li>
+      <li><a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certificate%2C%20Coursera%2C%20Data%20analytics%2C%2003%2C%20Data%20visualization%20and%20dashboard%20with%20excel%20and%20cognos%20analytics.pdf">Data Visualization with Excel and Cognos</a></li>
+      <li><a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certificate%2C%20Coursera%2C%20Data%20analytics%2C%2004%2C%20Python%20for%20data%20analysis%2C%20AI%2C%20and%20development.pdf">Python for Data Science, AI, & Development</a></li>
+    
+  </ul>
+</p>
+
 <!--
 Photo by <a href="https://unsplash.com/@alienaperture?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Michael D</a> on <a href="https://unsplash.com/photos/high-rise-buildings-2cDIzRnVq0Q?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 -->
