@@ -42,10 +42,9 @@
       <li><a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certificate%2C%20Coursera%2C%20Data%20analytics%2C%2004%2C%20Python%20for%20data%20analysis%2C%20AI%2C%20and%20development.pdf">Python for Data Science, AI, & Development</a></li>
       <li><a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certificate%2C%20Coursera%2C%20Data%20analytics%2C%2005%2C%20Python%20project%20for%20data%20science.pdf">Python Project for Data Science</a></li>
       <li><a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certificate%2C%20Coursera%2C%20Data%20analytics%2C%2006%2C%20Databases%20and%20sql%20for%20data%20science%20with%20python.pdf">Databases and SQL for Data Science with Python</a></li>
-
-
-      
-    
+      <li><a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certificate%2C%20Coursera%2C%20Data%20analytics%2C%2007%2C%20Data%20analysis%20with%20python.pdf">Data Analysis with Python</a></li>
+      <li><a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certificate%2C%20Coursera%2C%20Data%20analytics%2C%2008%2C%20Data%20visualization%20with%20python.pdf">Data Vizualization with Python</a></li>
+      <li><a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certificate%2C%20Coursera%2C%20Data%20analytics%2C%2009%2C%20Capstone%20project.pdf">IBM Data Analyst Capstone Project</a></li>
   </ul>
 </p>
 
