@@ -3,7 +3,7 @@
 
 <h2>Projects</h2>
 <table>
-  <tr>
+  <!--<tr>
     <td valign="top">
       <img src="https://github.com/jos-long/Portfolio/blob/main/michael-d-2cDIzRnVq0Q-unsplash_2018.jpg" width="350" alt="High Rise Buildings by Michael D on Unsplash">
     </td>
@@ -11,14 +11,14 @@
       <p><a href="https://github.com/jos-long/Climate-Exploration-Project">Climate Exploration Project</a></p>
       <p>[Two or three sentences max!] The objective of this is project is to... I compared various models... which resulted in a [quantifiable result].</p>
     </td>
-  </tr>
+  </tr>-->
   <tr>
     <td valign="top">
       <img src="https://github.com/jos-long/Portfolio/blob/main/imb_data_an_pro_cert.jpg" width="350" alt="IBM Data Analyst Professional Certificate">
     </td>
     <td valign="top">
       <p><a href="https://github.com/jos-long/Portfolio/blob/main/imb_data_an_cert_capstone_story.pdf">Capstone Project: IBM Data Analysis Professional Certificate</a></p>
-      <p>[Two or three sentences max!] The objective of this is project is to... I compared various models... which resulted in a [quantifiable result].</p>
+      <p>Data analysis report created to complete the final capstone project for the IBM Data Analysis Professional Certificate.  The project itself required completing various tasks, including data collection, data cleaning and pre-processing, EDA, statistical analysis, and creating visualizations.  Tools, languages, and libraries used: Jupyter Notebooks, SQL, Python libraries including Pandas, NumPy, Matplotlib, and Seaborn, and IBM's Cognos Analytics.</p>
     </td>
   </tr>
 </table>  
