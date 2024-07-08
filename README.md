@@ -1,7 +1,11 @@
 <h1>Data Portfolio - Joseph Long</h1>
 <p>This Portfolio contains my data projects and relevant certificates. I update it on a regular basis.</p>
-<p>Email: <a href="mailto: jos.long@hotmail.com">jos.long@hotmail.com</a></br>
-  LinkedIn: <a href="http://www.linkedin.com/in/joslong">linkedin.com/in/joslong</a></p>
+<p>
+  <ul>
+    <li>Email: <a href="mailto: jos.long@hotmail.com">jos.long@hotmail.com</a></li>
+    <li>LinkedIn: <a href="http://www.linkedin.com/in/joslong">linkedin.com/in/joslong</a></li>
+  </ul>
+</p>
              
 <h2>Projects</h2>
 <table>
