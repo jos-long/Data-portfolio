@@ -1,6 +1,8 @@
-<h1>Data Science Portfolio - Joseph Long</h1>
-<p></p>This is my portfolio...</p>
-
+<h1>Data Portfolio - Joseph Long</h1>
+<p>This Portfolio contains my data projects and relevant certificates. I update it on a regular basis.</p>
+<p>Email: <a href="mailto: jos.long@hotmail.com">jos.long@hotmail.com</a></br>
+  LinkedIn: <a href="http://www.linkedin.com/in/joslong">linkedin.com/in/joslong</a></p>
+             
 <h2>Projects</h2>
 <table>
   <!--<tr>
@@ -14,11 +16,11 @@
   </tr>-->
   <tr>
     <td valign="top">
-      <a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certificate%2C%20Coursera%2C%20IBM%20Data%20analytist.pdf"><img src="https://github.com/jos-long/Portfolio/blob/main/imb_data_an_pro_cert.jpg" width="350" alt="IBM Data Analyst Professional Certificate"></a>
+      <a href="a href="https://github.com/jos-long/Portfolio/blob/main/imb_data_an_cert_capstone_story.pdf""><img src="https://github.com/jos-long/Portfolio/blob/main/imb_data_an_pro_cert.jpg" width="350" alt="IBM Data Analyst Professional Certificate"></a>
     </td>
     <td valign="top">
       <p><a href="https://github.com/jos-long/Portfolio/blob/main/imb_data_an_cert_capstone_story.pdf">Capstone Project: IBM Data Analysis Professional Certificate</a></p>
-      <p>Data analysis report created to complete the final capstone project for the IBM Data Analysis Professional Certificate.  The project itself required completing various tasks, including data collection, data cleaning and pre-processing, EDA, statistical analysis, and creating visualizations.  Tools, languages, and libraries used: Jupyter Notebooks, SQL, Python libraries including Pandas, NumPy, Matplotlib, and Seaborn, and IBM's Cognos Analytics.</p>
+      <p>Data analysis report created to complete the final capstone project for the <a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certificate%2C%20Coursera%2C%20IBM%20Data%20analytist.pdf">IBM Data Analysis Professional Certificate</a>.  The project itself required completing various tasks, including data collection, data cleaning and pre-processing, EDA, statistical analysis, and creating visualizations.  Tools, languages, and libraries used: Jupyter Notebooks, SQL, Python libraries including Pandas, NumPy, Matplotlib, and Seaborn, and IBM's Cognos Analytics.</p>
     </td>
   </tr>
 </table>  
