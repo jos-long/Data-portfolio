@@ -1,5 +1,5 @@
-<h1>Portfolio - Joseph Long</h1>
-<p>This Portfolio contains my projects and certificates. I update it on a regular basis.</p>
+<h1>Data Portfolio - Joseph Long</h1>
+<p>This Portfolio contains my data projects and certificates. I update it on a regular basis.</p>
 <p>
   <ul>
     <li>Email: <a href="mailto: jos.long@hotmail.com">jos.long@hotmail.com</a></li>
