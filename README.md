@@ -23,8 +23,8 @@
       <a href="https://github.com/jos-long/Portfolio/blob/main/imb_data_an_cert_capstone_story.pdf"><img src="https://github.com/jos-long/images/blob/main/ibm_data_analysis_pro_cert_capstone_03.jpg" width="350" alt="IBM Data Analyst Professional Certificate"></a>
     </td>
     <td valign="top">
-      <p><a href="https://github.com/jos-long/Portfolio/blob/main/imb_data_an_cert_capstone_story.pdf" target="_blank">Capstone Project: IBM Data Analysis Professional Certificate</a></p>
-      <p>Data analysis report created to complete the final capstone project for the <a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certificate%2C%20Coursera%2C%20IBM%20Data%20analytist.pdf" target="_blank">IBM Data Analysis Professional Certificate</a>.  The project itself required completing various tasks, including data collection, data cleaning and pre-processing, EDA, statistical analysis, and creating visualizations.  Tools, languages, and libraries used: Jupyter Notebooks, SQL, Python libraries including Pandas, NumPy, Matplotlib, and Seaborn, and IBM's Cognos Analytics.</p>
+      <p><a href="https://github.com/jos-long/Portfolio/blob/main/imb_data_an_cert_capstone_story.pdf">Capstone Project: IBM Data Analysis Professional Certificate</a></p>
+      <p>Data analysis report created to complete the final capstone project for the <a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certificate%2C%20Coursera%2C%20IBM%20Data%20analytist.pdf">IBM Data Analysis Professional Certificate</a>.  The project itself required completing various tasks, including data collection, data cleaning and pre-processing, EDA, statistical analysis, and creating visualizations.  Tools, languages, and libraries used: Jupyter Notebooks, SQL, Python libraries including Pandas, NumPy, Matplotlib, and Seaborn, and IBM's Cognos Analytics.</p>
     </td>
   </tr>
 </table>  
