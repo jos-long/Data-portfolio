@@ -20,7 +20,7 @@
   </tr>-->
   <tr>
     <td valign="top">
-      <a href="https://github.com/jos-long/Portfolio/blob/main/imb_data_an_cert_capstone_story.pdf"><img src="https://github.com/jos-long/Portfolio/blob/main/imb_data_an_pro_cert.jpg" width="350" alt="IBM Data Analyst Professional Certificate"></a>
+      <a href="https://github.com/jos-long/Portfolio/blob/main/imb_data_an_cert_capstone_story.pdf"><img src="https://github.com/jos-long/images/blob/main/ibm_data_analysis_pro_cert_capstone_02.jpg" width="350" alt="IBM Data Analyst Professional Certificate"></a>
     </td>
     <td valign="top">
       <p><a href="https://github.com/jos-long/Portfolio/blob/main/imb_data_an_cert_capstone_story.pdf">Capstone Project: IBM Data Analysis Professional Certificate</a></p>
